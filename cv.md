@@ -14,6 +14,25 @@
 > Python
 > Git
 > Linux
+> SOLID
+> OOP
 
 ## Сode examples
 
+https://github.com/coldfrontlich/ITMO-Java
+
+## Work experience 
+
+- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab1 -> Java core
+- https://github.com/coldfrontlich/ITMO-Java/tree/main/PokemonLab2 -> OOP
+- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab3 -> SOLID
+- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab4 -> Exceptions
+
+## Education
+
+- ITMO University
+- ULearn -> C#
+
+## English
+
+> B1.2
