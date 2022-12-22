@@ -17,11 +17,11 @@ body {
 }
 
 .header {
-  border: 10px solid red;
+  background-color: lightseagreen;
 }
 
 .main {
-  border: 330px solid blue;
+  background-color: whitesmoke;
 }
 
 .footer {
@@ -61,17 +61,18 @@ body {
   line-height: 50px;
   text-decoration: none;
   font-size: 24px;
-  color: blueviolet;
+  color: aliceblue;
   transition: .5s;
 }
 
 .nav-link:hover {
-  color: red;
+  color: lightblue;
 }
 
 .image {
-  height: 500px;
-  width: 600px;
+  height: 350px;
+  width: 300px;
+  clip-path: circle(100px at center);
 }
 
 .svg-picture {
@@ -94,9 +95,36 @@ body {
   font-size: 18px;
 }
 
+.section-title {
+  color: lightseagreen;
+}
+
+.typical-text {
+  color: rgb(205, 154, 123);
+}
+
+.ul-list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.text-link {
+  list-style-type: none;
+  color: rgb(205, 154, 123);
+}
+
+.contact-text {
+  color: lightseagreen;
+}
+
+.code {
+  color: rgb(205, 154, 123);
+}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
   }
 }
+
 
