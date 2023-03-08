@@ -2,6 +2,7 @@
 
 ## Сontacts for communication
 - tg@Pomogich
+- coldfrontlich@gmail.com
 
 ## Short information about myself
 - Study at ITMO University
@@ -9,8 +10,9 @@
 - I want to get into front-end development
 
 ## Skills
-> Java SE, Java EE
-> C#
+> Vanilla JS
+> HTML
+> CSS
 > Python
 > Git
 > Linux
@@ -19,19 +21,20 @@
 
 ## Сode examples
 
-https://github.com/coldfrontlich/ITMO-Java
+https://github.com/coldfrontlich/rsschool-Plants
+https://github.com/coldfrontlich/Momentum-rsschool
 
 ## Work experience 
 
-- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab1 -> Java core
 - https://github.com/coldfrontlich/ITMO-Java/tree/main/PokemonLab2 -> OOP
-- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab3 -> SOLID
-- https://github.com/coldfrontlich/ITMO-Java/tree/main/Lab4 -> Exceptions
+- https://github.com/coldfrontlich/rsschool-Plants -> SASS,JS
+
 
 ## Education
 
 - ITMO University
 - ULearn -> C#
+- The Rolling Scopes -> JS Pre-School 2022
 
 ## English
 
